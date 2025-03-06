@@ -26,7 +26,7 @@ A Python-based application that generates random names, emails, and addresses fo
  🚀 How to Run the Project  
 1. Clone the repository:
    
-   use : git clone https://github.com/your-repo-link.git
+   use : git clone https://github.com/Naazahmedi04/Projects
    
 2. Navigate to the project folder:  
    
